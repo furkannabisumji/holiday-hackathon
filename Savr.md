@@ -12,9 +12,9 @@ Savr is a decentralized **Rotating Savings and Credit Association (ROSCA)** plat
 **Preview Link:**  [Link](https://savr-lens.vercel.app/)
 
 **Demo Video/Slide Deck Link:**  
-
+![video](https://www.youtube.com/watch?v=SPcrl6YH0oQ)
 **Screenshots:**  
-![image](https://drive.google.com/file/d/17wVH3kxeGmmnwDGybY1MTYJM8Vfi4L9q/view?usp=drivesdk)
+![image](https://imgur.com/a/KD1rqF5)
 
 ---
 
@@ -49,3 +49,5 @@ Savr operates with two main smart contracts:
 4. **Completion and Termination:**  
    - When all cycles are complete, the group is terminated.  
    - **SavrPool.sol** distributes the accrued interest to one random member of the group.  
+
+[Tweet](https://x.com/furkannabisumji/status/1876474036135637034?t=1FDnBZVw-fExq464hrzTVA&s=19)
