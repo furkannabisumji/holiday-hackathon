@@ -11,10 +11,11 @@ Savr is a decentralized **Rotating Savings and Credit Association (ROSCA)** plat
 
 **Preview Link:**  [Link](https://savr-lens.vercel.app/)
 
-**Demo Video/Slide Deck Link:**  
-![video](https://www.youtube.com/watch?v=SPcrl6YH0oQ)
+**Demo Video/Slide Deck Link:**  [Video](https://www.youtube.com/watch?v=SPcrl6YH0oQ)
 **Screenshots:**  
-![image](https://imgur.com/a/KD1rqF5)
+![Screenshot 2025-01-07 090302](https://github.com/user-attachments/assets/2a55b97f-ede2-4631-bd20-205236fe1034)
+![Screenshot 2025-01-07 090439](https://github.com/user-attachments/assets/04881be6-ef32-42f3-81f9-9569cff0179d)
+
 
 ---
 
